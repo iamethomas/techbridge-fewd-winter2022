@@ -1,7 +1,7 @@
 
 # Rare Bookstore Project
 
-Development of a book inventory system for that will be accessible either on laptop or a tablet.
+Development of a book inventory system that will be accessible either on laptop or a tablet.
 
 
 ## Authors
