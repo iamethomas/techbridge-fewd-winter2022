@@ -9,7 +9,7 @@ Development of a book inventory system that will be accessible either on laptop 
 - [@evathomas](https://github.com/iamethomas)
 
 
-## Phase 1 - Empathize
+## Phase 1
 
 ### Deliverables
 - Client interview and summary of client needs
