@@ -4,7 +4,7 @@
 Development of a book inventory system that will be accessible either on laptop or a tablet.
 
 
-## Authors
+## Author
 
 - [@evathomas](https://github.com/iamethomas)
 
